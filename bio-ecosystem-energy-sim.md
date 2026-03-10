@@ -1,7 +1,6 @@
 layout: page
 title: "Energy Through The Ecosystem Simulation"
 permalink: https://mrmoscienceland.github.io/bio-ecosystem-energy-sim
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
